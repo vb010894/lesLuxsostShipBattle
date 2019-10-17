@@ -67,7 +67,7 @@ namespace BattleSetting.ConfigStructures
 
         [ConfigurationProperty("hitValue")]
         public bool hitValue
-         {
+        {
             get { return (bool)this["hitValue"]; }
             set { this["hitValue"] = value; }
         }

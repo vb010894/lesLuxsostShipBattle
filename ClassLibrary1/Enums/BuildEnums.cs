@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary1.Enums
+namespace BattleSetting.Enums
 {
-    public class Flags
+    public class BuildEnums
     {
         public enum SideVectors
         {

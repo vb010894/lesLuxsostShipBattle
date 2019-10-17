@@ -3,10 +3,37 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BattleSetting.Enums;
 
+// *********************************************************************************
+// Author:	Vladimir Zinovev
+// Email:	aleksiev_vov@mail.ru
+// Date: 	10.17.2019
+// Project:	BattleSetting.Configs
+// *********************************************************************************
 namespace BattleSetting.Configs
 {
+    /// <summary>
+    /// настройки одного корабля
+    /// </summary>
     public class ShipSetting
+    {
+        /// <summary>
+        /// Сторона коробля
+        /// </summary>
+        public BuildEnums.SideVectors vector { get; set; }
+
+        /// <summary>
+        /// Количество палуб на корабле
+        /// </summary>
+        public int floorCount { get; set; }
+
+    }
+    
+    /// <summary>
+    /// Общие настройки кораблей
+    /// </summary>
+    public class ShipsSetting
     {
         /// <summary>
         /// Максимальное количество палуб в корабле
@@ -53,12 +80,8 @@ namespace BattleSetting.Configs
         /// </summary>
         public int hitValue { get; set; }
 
-    }
-
-    public class ShipsSetting
-    {
-      //  public vectorSide
-        
+       
+       
     }
 
 }

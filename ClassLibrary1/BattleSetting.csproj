@@ -48,7 +48,7 @@
     <Compile Include="Configs\BoardConfig.cs" />
     <Compile Include="Configs\PlayerSettings.cs" />
     <Compile Include="Configs\ShipSetting.cs" />
-    <Compile Include="Enums\Flags.cs" />
+    <Compile Include="Enums\BuildEnums.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

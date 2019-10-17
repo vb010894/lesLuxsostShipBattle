@@ -10,10 +10,10 @@ namespace ShipBattle.Conntrollers
     public class PlayerController
     {
 
-        public bool IsHit(ShipModel ship, int x = 0, int y = 0)
+      /*  public bool IsHit(ShipModel ship, int x = 0, int y = 0)
         {
-            return ship.isHit(x, y, ship.vectorShip);
-        }
+         //   return ship.isHit(x, y, ship.vectorShip);
+        }*/
 
     }
 }

@@ -3,10 +3,3 @@ c:\users\123\documents\visual studio 2010\Projects\ShipBattle\ShipBattle\bin\Deb
 c:\users\123\documents\visual studio 2010\Projects\ShipBattle\ShipBattle\bin\Debug\ShipBattle.pdb
 c:\users\123\documents\visual studio 2010\Projects\ShipBattle\ShipBattle\obj\x86\Debug\ShipBattle.exe
 c:\users\123\documents\visual studio 2010\Projects\ShipBattle\ShipBattle\obj\x86\Debug\ShipBattle.pdb
-P:\Users\st15503\Documents\Visual Studio 2017\Projects\lesLuxsostShipBattle\ShipBattle\bin\Debug\ShipBattle.exe.config
-P:\Users\st15503\Documents\Visual Studio 2017\Projects\lesLuxsostShipBattle\ShipBattle\bin\Debug\ShipBattle.exe
-P:\Users\st15503\Documents\Visual Studio 2017\Projects\lesLuxsostShipBattle\ShipBattle\bin\Debug\ShipBattle.pdb
-P:\Users\st15503\Documents\Visual Studio 2017\Projects\lesLuxsostShipBattle\ShipBattle\obj\x86\Debug\ShipBattle.csprojAssemblyReference.cache
-P:\Users\st15503\Documents\Visual Studio 2017\Projects\lesLuxsostShipBattle\ShipBattle\obj\x86\Debug\ShipBattle.csproj.CoreCompileInputs.cache
-P:\Users\st15503\Documents\Visual Studio 2017\Projects\lesLuxsostShipBattle\ShipBattle\obj\x86\Debug\ShipBattle.exe
-P:\Users\st15503\Documents\Visual Studio 2017\Projects\lesLuxsostShipBattle\ShipBattle\obj\x86\Debug\ShipBattle.pdb
