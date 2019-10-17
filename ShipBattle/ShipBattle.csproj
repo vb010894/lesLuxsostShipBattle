@@ -47,8 +47,8 @@
     <Compile Include="Conntrollers\PlayerController.cs" />
     <Compile Include="Conntrollers\ShipController.cs" />
     <Compile Include="Models\BoardModel.cs" />
-    <Compile Include="Models\Computer.cs" />
-    <Compile Include="Models\Human.cs" />
+    <Compile Include="Models\ComputerModel.cs" />
+    <Compile Include="Models\HumanModel.cs" />
     <Compile Include="Models\PlayerModel.cs" />
     <Compile Include="Models\ShipModel.cs" />
     <Compile Include="Program.cs" />

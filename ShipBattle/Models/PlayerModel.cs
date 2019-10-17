@@ -6,12 +6,13 @@ using ShipBattle.Conntrollers;
 
 namespace ShipBattle.Models
 {
-    public abstract class PlayerModel
+    public interface PlayerModel
     {
-        public readonly string name;
-       // private 
 
 
+        void addToFleet(ShipModel ship = null);
+
+        bool IsHit(ShipModel shop, int x = 0, int y = 0);
 
 
     }

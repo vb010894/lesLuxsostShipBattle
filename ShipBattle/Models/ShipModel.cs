@@ -39,6 +39,7 @@ namespace ShipBattle.Models
             this.canLeftDiagonalVector = this.getVectorValue(vectorSide.leftDiagonal);
             this.canRightDiagonaVector = this.getVectorValue(vectorSide.rightDiagonal);
             this.canRightVector = this.getVectorValue(vectorSide.right);
+            this.vectorShip = this.getVectorShip(vector, floorCount, x, y);
         }
 
                

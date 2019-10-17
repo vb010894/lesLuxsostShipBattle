@@ -10,11 +10,11 @@ namespace ShipBattle
     {
         static void Main(string[] args)
         {
-            List <int[]> ships = new List<int[]>();
-            ships.Add( new int[2]{0, 2});
-            ships.Add( new int[2]{0, 0});
 
-                 BoardModel.printBoard(ships);
+            
+
+
+         //   BoardModel.printBoard(all);
                 Console.ReadKey();
         }
     }
