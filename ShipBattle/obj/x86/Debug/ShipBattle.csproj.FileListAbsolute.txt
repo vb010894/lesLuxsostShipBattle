@@ -1,0 +1,5 @@
+c:\users\123\documents\visual studio 2010\Projects\ShipBattle\ShipBattle\bin\Debug\ShipBattle.exe.config
+c:\users\123\documents\visual studio 2010\Projects\ShipBattle\ShipBattle\bin\Debug\ShipBattle.exe
+c:\users\123\documents\visual studio 2010\Projects\ShipBattle\ShipBattle\bin\Debug\ShipBattle.pdb
+c:\users\123\documents\visual studio 2010\Projects\ShipBattle\ShipBattle\obj\x86\Debug\ShipBattle.exe
+c:\users\123\documents\visual studio 2010\Projects\ShipBattle\ShipBattle\obj\x86\Debug\ShipBattle.pdb
