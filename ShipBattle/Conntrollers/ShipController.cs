@@ -116,14 +116,14 @@ namespace ShipBattle.Conntrollers
             return result;
         }
 
-        public bool isHit(int x, int y, List<int[]> shipVector)
+        public bool isHit(int x, int y, ShipModel ship)
         {
 
             bool result = false;
 
                 try
                 {
-                    int[] res = shipVector.Single(s => (s[0] == y & s[1] == x));
+                    int[] res = ship.vectorShip.Single(s => (s[0] == y & s[1] == x));
                     result = (res != null) ? true: false;
                 }
                 catch (Exception  ex)
@@ -131,6 +131,10 @@ namespace ShipBattle.Conntrollers
                     // do nothing
                 }
 
+            if (result)
+            {
+                
+            }
             return result;
 
         }
